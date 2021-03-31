@@ -1,0 +1,16 @@
+{
+	"name": "twitter-clone",
+	"require": {
+		"php": ">= 7.0"
+	},
+	"authors": [{
+		"name": "Willian Bretzke",
+		"email": "willianbretzke2013@hotmail.com"
+	}],
+	"autoload": {
+		"psr-4": {
+			"App\\": "App/",
+			"MF\\": "vendor/MF/"
+		}
+	}
+}
